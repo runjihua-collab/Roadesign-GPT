@@ -2,7 +2,7 @@
 
 ### 1. Project Aim
 
-My aim is to develop **RoaDesign GPT**, a custom GPT that supports **Australian road design learning and preliminary design guidance**, with the first version focused on **Victoria**. The system will help students answer general road design questions, identify the correct reference documents, explain design concepts clearly, and later perform structured checks through external tools. The technical basis will come from the **Austroads Guide to Road Design**, especially Part 1 and Part 3, together with Victoria's **DTP technical publications**, which include the **Supplement to AGRD** and **Road Design Notes**. ([Austroads][1])
+Our aim is to develop **RoaDesign GPT**, a custom GPT that supports **Australian road design learning and preliminary design guidance**, with the first version focused on **Victoria**. The system will help students answer general road design questions, identify the correct reference documents, explain design concepts clearly, and later perform structured checks through external tools. The technical basis will come from the **Austroads Guide to Road Design**, especially Part 1 and Part 3, together with Victoria's **DTP technical publications**, which include the **Supplement to AGRD** and **Road Design Notes**. ([Austroads][1])
 
 ### 2. Overall Development Idea
 
